@@ -3,7 +3,8 @@
 <br/>
 
 
-- [ ] [Hopfield Networks is All You Need](https://arxiv.org/abs/2008.02217)
+- [ ] Hopfield Networks is All You Need
+  - [ ] [paper](https://arxiv.org/abs/2008.02217)
   - [ ] [blog](https://ml-jku.github.io/hopfield-layers/)
   - [ ] [code](https://github.com/ml-jku/hopfield-layers)
 - [ ] [The Hardware Lottery](https://arxiv.org/abs/2009.0648)
