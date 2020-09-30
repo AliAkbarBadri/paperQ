@@ -16,3 +16,5 @@
   - [ ] [paper](https://arxiv.org/abs/2005.00796)
   - [ ] [blog](https://blog.einstein.ai/simpletod/)
   - [ ] [code](https://github.com/salesforce/simpletod)
+- [ ] REALTOXICITYPROMPTS: Evaluating Neural Toxic Degeneration in Language Models
+  - [ ] [paper](https://arxiv.org/abs/2009.11462)
