@@ -18,3 +18,4 @@
   - [ ] [code](https://github.com/salesforce/simpletod)
 - [ ] REALTOXICITYPROMPTS: Evaluating Neural Toxic Degeneration in Language Models
   - [ ] [paper](https://arxiv.org/abs/2009.11462)
+  - [ ] [blog](https://toxicdegeneration.allenai.org)
