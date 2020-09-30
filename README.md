@@ -13,6 +13,6 @@
 - [ ] A Diagnostic Study of Explainability Techniques for Text Classification
   - [ ] [paper](https://arxiv.org/abs/2009.13295)
 - [ ] [A Simple Language Model for Task-Oriented Dialogue
- - [ ] [paper](https://arxiv.org/abs/2005.00796)
- - [ ] [blog](https://blog.einstein.ai/simpletod/)
- - [ ] [code](https://github.com/salesforce/simpletod)
+  - [ ] [paper](https://arxiv.org/abs/2005.00796)
+  - [ ] [blog](https://blog.einstein.ai/simpletod/)
+  - [ ] [code](https://github.com/salesforce/simpletod)
